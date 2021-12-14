@@ -1,7 +1,3 @@
-//
-// Created by Doma on 2021-12-10.
-//
-
 #ifndef MAIN_CPP_FOOD_H
 #define MAIN_CPP_FOOD_H
 #include <string>

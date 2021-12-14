@@ -1,7 +1,3 @@
-//
-// Created by Doma on 2021-12-10.
-//
-
 #include "Food.h"
 #include <fstream>
 #include <iostream>
