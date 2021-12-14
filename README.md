@@ -1,4 +1,4 @@
-# MenuCreator
+# MenuCreator - work in progress/ definitely not a finished version
 C++ program for generating menus with first, second and last meal.
 The program gives the user two options either to input a new food or to generate a menu for them. 
 If the user chooses to add a new food, then they have to decide whether the food that they want to add will be classified as salad/main dish/dessert.
