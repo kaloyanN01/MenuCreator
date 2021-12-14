@@ -127,7 +127,7 @@ void Food::addDessert() {
     cin >> mainMenuInput;
     switch (mainMenuInput) {
         case 1:
-            something();
+           // something();
             break;
 
         case 2:
@@ -149,7 +149,7 @@ void Food::showMainMenu() {
             "\n [3] to list all items in a category" << endl;
     cin >> mainMenuInput;
     switch (mainMenuInput) {
-        Food::something(){
+       // Food::something(){
         case 1:
 
             cout << "[1] to add salad to the menu" << endl;
@@ -168,7 +168,7 @@ void Food::showMainMenu() {
                     break;
             }
             break;
-            };
+          //  };
         case 2:
             generateMenu();
             break;
